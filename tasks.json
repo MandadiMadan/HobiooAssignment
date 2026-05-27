@@ -1,0 +1,17 @@
+[
+    {
+        "title": "Watch Movie",
+        "priority": "Low",
+        "done": false
+    },
+    {
+        "title": "Complete Project",
+        "priority": "High",
+        "done": false
+    },
+    {
+        "title": "Practise Python",
+        "priority": "Medium",
+        "done": true
+    }
+]
